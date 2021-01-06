@@ -3512,3 +3512,11 @@ input, select, textarea {
 			}
 
 	}
+	.languageIcon{
+		width: 200px;
+	}
+	.majorIcons{
+		display:flex;
+		flex-wrap: wrap;
+		border: 1px solid white
+	}
